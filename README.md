@@ -1,3 +1,5 @@
-# machineLearning
-Data Exploration and Modelling using Credit history data
-
+# Machine Learning Projects
+- This repository details 2 Machine Learning projects Credit List prediction and Mice protien expressions predictions datasets. 
+## Credit Risk Prediction
+- The objective of this case study is to fit and compare 4 different binary classification models (classifiers) to predict whether a customer has good credit history or bad using the German Credit dataset. The dataset is sourced from the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
+- The dataset contains 20 descriptive feature with 1 binary class feature. Out of the 20 descriptive features 7 features are numerical while 13 are categorical. All of the categorical features are represented with some coding format which is explained in the ipynb file. The class feature has two classes 'Good' which is represented as '1' and 'Bad' which is represented as '2' respectively. The whole dataset contains 1000 observation instances. The ipynb file explains all the steps taken and the algorithms used to compare and contrast the results with the hyperparameter tuning and the end results. 
